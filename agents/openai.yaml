@@ -1,0 +1,7 @@
+interface:
+  display_name: "Elonize"
+  short_description: "Compress complex objectives into credible execution"
+  default_prompt: "Use $elonize to find the shortest credible path from my current state to this objective."
+
+policy:
+  allow_implicit_invocation: true
